@@ -1,0 +1,9 @@
+.env
+session.json
+*.jpg
+*.png
+*.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
